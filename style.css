@@ -1,0 +1,165 @@
+*{
+    margin:0px 0px;
+    padding: 0px 0px;
+   
+    
+}
+.container{
+    max-width: 1368px;
+}
+.home {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('download\ \(1\).jpg') no-repeat center/cover;
+    color: white;
+}
+
+nav{
+    display: flex;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+}
+i{
+    padding: 20px 20px;
+    font-size: 20px;
+    background-color: white;
+    color: rgb(65, 189, 8);
+    border-radius: 50%;
+    margin-bottom: -10px;
+}
+.logo{
+    padding: 60px 0px;
+}
+.menu{
+    background-color: rgba(0, 0, 0, 0.4);
+    color :  white;
+}
+.menu ul li{
+    padding: 20px 20px;
+}
+.menu p{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.para{
+    padding: 200px 30px;
+}
+.para button{
+    border: none;
+    background-color: rgb(10, 206, 141);
+    color: white;
+    padding: 20px 10px;
+}
+.picture{
+    padding-left: 70px;
+   color:rgb(74, 77, 76);
+   text-align: left;
+   padding-bottom: 90px;
+    margin-top: -70px;
+}
+
+.picture .col-sm-4 img{
+    width : 80%;
+    text-align: center;
+}
+.picture .next{
+    padding-top: 70px;
+}
+
+.icon{
+    text-align: center;
+    padding: 70px 0px;
+    color :  rgb(54, 56, 56);
+    background-color: rgb(250, 245, 245);
+}
+.icon h4{
+    padding-bottom: 90px;
+}
+.icon button{
+    background-color: rgb(31, 179, 129);
+    color :  white;
+    text-transform: uppercase;
+    padding : 10px 10px;
+    border: none;
+}
+.next-color{
+    padding :50px 0px;
+    background-color: rgb(40, 153, 153);
+    color :  white;
+    text-align: center;
+}
+.next-color .row{
+    padding-top: 60px;
+}
+.two-part{
+    padding: 50px 0px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('City-Night-Landscape-Wallpaper.jpg') no-repeat center/cover;
+    text-align: center;
+    color : white;
+}  
+.box{
+    background-color: azure;
+    color : rgb(13, 63, 46);
+    margin: 10px 20px;
+}
+.two-part .row{
+    padding: 50px 0px;
+}
+.white {
+    padding: 50px 0px;
+    color :rgb(54, 56, 56);
+    background-color: rgb(238, 217, 189);
+}
+.white .row{
+    padding-top: 50px;
+}
+.white .col-sm-4 img{
+    width : 100%;
+}
+
+.white {
+    text-align: center;
+}
+
+.white .col-sm-8{
+    text-align: left;
+}
+.white span{
+    color :rgb(13, 63, 46);
+    font-size: 20px;
+}
+.contact{
+    color : white;
+    padding: 60px 0px;
+    text-align: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('contact.png') no-repeat center/cover;
+}
+
+.contact .col-sm-6 nav{
+    padding : 20px 10px;
+    width : 100%;
+    display: flex;
+   align-items: center;
+}
+
+.contact ul li{
+    list-style: none;
+    margin-right: 5px;
+    padding : 5px 5px;
+    color : white;
+    text-align: center;
+}
+.bottom{
+    padding : 20px 0px;
+    text-align: center;
+    background-color: rgb(39, 37, 37);
+    color :rgb(238, 217, 189);
+}
+.bottom i{
+    color : orangered;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.bottom span{
+   color : orangered;
+}
